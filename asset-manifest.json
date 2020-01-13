@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "http(s)://%3Cusername%3E.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "http(s)://%3Cusername%3E.github.io/static/js/main.ac76a671.chunk.js",
+    "main.js.map": "http(s)://%3Cusername%3E.github.io/static/js/main.ac76a671.chunk.js.map",
+    "runtime-main.js": "http(s)://%3Cusername%3E.github.io/static/js/runtime-main.fcaa06fe.js",
+    "runtime-main.js.map": "http(s)://%3Cusername%3E.github.io/static/js/runtime-main.fcaa06fe.js.map",
+    "static/js/2.e43ea9a0.chunk.js": "http(s)://%3Cusername%3E.github.io/static/js/2.e43ea9a0.chunk.js",
+    "static/js/2.e43ea9a0.chunk.js.map": "http(s)://%3Cusername%3E.github.io/static/js/2.e43ea9a0.chunk.js.map",
+    "index.html": "http(s)://%3Cusername%3E.github.io/index.html",
+    "precache-manifest.0dce75984578b825304101990b09de64.js": "http(s)://%3Cusername%3E.github.io/precache-manifest.0dce75984578b825304101990b09de64.js",
+    "service-worker.js": "http(s)://%3Cusername%3E.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "http(s)://%3Cusername%3E.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e43ea9a0.chunk.js.LICENSE": "http(s)://%3Cusername%3E.github.io/static/js/2.e43ea9a0.chunk.js.LICENSE",
+    "static/media/logo.svg": "http(s)://%3Cusername%3E.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcaa06fe.js",
+    "static/js/2.e43ea9a0.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.ac76a671.chunk.js"
+  ]
+}
